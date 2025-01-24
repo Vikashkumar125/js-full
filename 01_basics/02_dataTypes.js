@@ -6,7 +6,7 @@
 
 console.log("hitesh")
 
-let name =" hitesh"
+let name =" hitesh Kumar"
 let age  = 18
 let isLoggedIn = false
 
