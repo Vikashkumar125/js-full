@@ -17,3 +17,28 @@
 
 // 1=>true;  0=>false;
 // ""=> false; "hitesh"=> true;
+// let value =3;
+// let negvalue =-value;
+// console.log(typeof negvalue);
+
+// console.log(2+2);
+// console.log(2*2);
+// console.log(2**3);
+// console.log(2**2);
+// console.log(2/2);
+// console.log(2^2);
+// console.log(2%2);
+
+// console.log(2 + "2");
+// console.log("2"+2);
+// console.log("2"+"2");
+// console.log(2+2+"2");
+// console.log("2"+2+ 7+8+5);
+
+// console.log(typeof true);
+// let val ="";
+
+// console.log(typeof val);
+// console.log(+true);
+// console.log(-true);
+// console.log(-"");
