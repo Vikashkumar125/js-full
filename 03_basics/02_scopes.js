@@ -1,4 +1,5 @@
 //var c = 300
+//we can also take
 let a = 300
 if (true) {
     let a = 10
