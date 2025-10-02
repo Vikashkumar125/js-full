@@ -6,7 +6,7 @@
 //     default:
 //         break;
 // }
-
+//or
 const month = "march"
 
 switch (month) {
